@@ -10,7 +10,7 @@ A simple CRUD web application that allows users to populate a database.
 - Update Student details.
 - Delete Student from database.
 - Sorting and filter pagination for list of students.
-- Student image profiles and changing them.
+- Uploading image from local computer to change student image profiles.
 
 ### Tech Stack
 - ASP NET Core API
