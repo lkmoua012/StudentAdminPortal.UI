@@ -9,7 +9,7 @@ A simple CRUD web application that allows users to populate a database.
 - Add Student to database.
 - Update Student details.
 - Delete Student from database.
-- Sorting and filter pagination for list of students.
+- Sorting and filter pagination for list.
 - Uploading image from local computer to change student image profiles.
 
 ### Tech Stack
