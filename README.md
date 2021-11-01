@@ -6,7 +6,7 @@ A simple CRUD web application that allows users to populate a database.
 
 ### Features
 - Input validation
-- Add Student to database.
+- Add Student.
 - Update Student details.
 - Delete Student from database.
 - Sorting and filter pagination for list.
